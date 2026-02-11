@@ -1,0 +1,23 @@
+p{
+    border: 1px solid gray;
+    padding: 20px;
+    margin: 20px;
+    width: 20%;
+    display: inline-block;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    text-align: justify;
+    border-radius: 10px;
+}
+.c1{
+    background: linear-gradient( 90deg ,red,orange);
+    box-shadow: 0px 0px 10px black;
+}
+#id1{
+    background: linear-gradient(50deg, green,lightgreen);
+    box-shadow: 0px 0px 10px blue;
+}
+.cl2{
+    background: linear-gradient(250deg, skyblue,blue);
+    box-shadow: 0px 0px 10px red;
+}
